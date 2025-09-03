@@ -580,6 +580,6 @@ athomasson2/ebook2audiobook:VERSION_NUM # For Pre-build docker images -> Example
 - **FFmpeg**: [FFmpeg Website](https://ffmpeg.org)
 - [@shakenbake15 for better chapter saving method](https://github.com/DrewThomasson/ebook2audiobook/issues/8) 
 
-i want you to  write a read.me file which should have i have borrowed the repo from ebook2audiobook
+
 
 
