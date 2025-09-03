@@ -1,0 +1,3 @@
+[submodule "external/granite-models"]
+	path = external/granite-models
+	url = https://github.com/ibm-granite/granite-3.3-language-models.git
